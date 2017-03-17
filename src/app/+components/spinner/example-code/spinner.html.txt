@@ -1,1 +1,0 @@
-<st-spinner imageUrl="assets/images/loading_spinner.gif"></st-spinner>
