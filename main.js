@@ -11,7 +11,7 @@ function fillList(versionList) {
 }
 
 function selectDoc(option) {
-   document.getElementById('egeo-doc').src = './' + option;
+//    document.getElementById('egeo-doc').src = './' + option;
 }
 
 function getFolders() {
