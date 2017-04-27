@@ -7,7 +7,7 @@ function getFolders() {
             options.push(element.name);
          }
       }, this);
-      window.location.replace('http://stratio.github.io/egeo-web/' + option[option.length -1] + '/');
+      window.location.replace('http://stratio.github.io/egeo-web/' + options[options.length -1] + '/');
    });
 }
 
