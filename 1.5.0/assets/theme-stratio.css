@@ -1696,9 +1696,12 @@
   font-size: inherit; }
 
 .sth-vertical-tabs__option {
-  border: 1.6px solid #dedede;
+  border-bottom: 1px solid #dedede;
   border-right-width: 0;
   border-left-width: 0; }
+
+.sth-vertical-tabs__option:first-child {
+  border-top: 1px solid #dedede; }
 
 .sth-vertical-tabs__option__text {
   cursor: pointer;
