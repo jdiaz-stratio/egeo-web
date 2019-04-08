@@ -1,6 +1,19 @@
 # Changelog
 
-## 16.0.0 (upcoming)
+## 16.1.0 (April 05, 2019)
+
+**New features:**
+
+* st-dropdown-menu: Allow user to move through options using the keyboard arrows 
+* st-select: new design for the search of elements.
+* st-search: Allow to hide or show loupe icon
+
+**Others:**
+
+* Update icon font
+
+
+## 16.0.0 (March 18, 2019)
 
 **New features:**
 
@@ -14,10 +27,10 @@
 * st-search: Display autocomplete list when user clicks on input after leaving it
 * st-search: Display empty message when autocomplete list does not have any item
 
-
 **Breaking changes:**
 
 * theme: Nunito sans font refactor.
+* st-search: When user selects an option from the autocomplete list, input is updated with the value of the selected option
 
 
 ## 15.0.2 (January 16, 2019)
